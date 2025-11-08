@@ -1,22 +1,20 @@
 # Olá, eu sou o Stefan Rodrigues 👋
 
 <p align="left">
-  [cite_start]Sou <strong>Consultor de Telecomunicações</strong> [cite: 14] [cite_start]na <strong>Vivo (Telefônica Brasil)</strong> [cite: 27, 28][cite_start], com foco em <strong>Engenharia de Dados</strong> [cite: 31] [cite_start]e desenvolvimento em <strong>Golang</strong>[cite: 8].
+Sou <strong>Consultor de Telecomunicações</strong>, com foco em Engenharia de Dados e desenvolvimento.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-[cite_start]Tenho uma carreira consolidada em telecomunicações, com experiência em projeto, implantação e troubleshooting de redes[cite: 16]. Nos últimos anos, tenho me especializado em dados, aplicando esse conhecimento no setor de telecom.
+Tenho uma carreira consolidada em telecomunicações, com experiência em projeto, implantação e troubleshooting de redes. Nos últimos anos, tenho me especializado em dados, aplicando esse conhecimento no setor de telecomunicações.
 
 Atualmente, minhas principais responsabilidades na Vivo incluem:
 
-* [cite_start]**Engenharia de Dados:** Desenvolvimento de pipelines ETL e ELT usando **Python** [cite: 32][cite_start], além de projeto e manutenção de bancos de dados **Oracle** e **MariaDB**[cite: 33].
-* [cite_start]**Infraestrutura:** Gerenciamento de infraestrutura para microsserviços com **Linux**, **Docker** e **Kubernetes**[cite: 34].
-* [cite_start]**Ciência de Dados:** Criação de relatórios e estudos estatísticos sobre tráfego de rede [cite: 36, 37][cite_start], utilizando ferramentas como **Jupyter**, **SciPy**, **Seaborn** e **QGIS**[cite: 37, 38].
-
-[cite_start]Sou certificado em **"Concurrency in Go"** [cite: 20][cite_start], **"Fundamentos de Data Science I e II"** [cite: 23, 25] [cite_start]e **"AI Agents and Agentic AI"**[cite: 21].
+**Engenharia de Dados:** Desenvolvimento de pipelines ETL e ELT usando **Python**, além de projeto e manutenção de bancos de dados **Oracle** e **MariaDB**.
+**Infraestrutura:** Gerenciamento de infraestrutura para microsserviços com **Linux**, **Docker** e **Kubernetes**.
+**Ciência de Dados:** Criação de relatórios e estudos estatísticos sobre tráfego de rede, utilizando ferramentas como **Jupyter**, **SciPy**, **Seaborn** e **QGIS**.
 
 ---
 
