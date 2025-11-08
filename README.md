@@ -12,9 +12,11 @@ Tenho uma carreira consolidada em telecomunicações, com experiência em projet
 
 Atualmente, minhas principais responsabilidades na Vivo incluem:
 
-<p>**Engenharia de Dados:** Desenvolvimento de pipelines ETL e ELT usando **Python**, além de projeto e manutenção de bancos de dados **Oracle** e **MariaDB**.</p>
-<p>**Infraestrutura:** Gerenciamento de infraestrutura para microsserviços com **Linux**, **Docker** e **Kubernetes**.</p>
-<p>**Ciência de Dados:** Criação de relatórios e estudos estatísticos sobre tráfego de rede, utilizando ferramentas como **Jupyter**, **SciPy**, **Seaborn** e **QGIS**.</p>
+**Engenharia de Dados:** Desenvolvimento de pipelines ETL e ELT usando **Python**, além de projeto e manutenção de bancos de dados **Oracle** e **MariaDB**.
+
+**Infraestrutura:** Gerenciamento de infraestrutura para microsserviços com **Linux**, **Docker** e **Kubernetes**.
+
+**Ciência de Dados:** Criação de relatórios e estudos estatísticos sobre tráfego de rede, utilizando ferramentas como **Jupyter**, **SciPy**, **Seaborn** e **QGIS**.
 
 ---
 
